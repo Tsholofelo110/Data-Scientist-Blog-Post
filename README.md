@@ -85,6 +85,7 @@ pip install -r requirements.txt
 
 ## Blog Post
 A detailed analysis and discussion can be found in this [Medium post]([https://medium.com/@manamelatsholofelo2/bostons-airbnb-market-a-data-driven-guide-for-hosts-and-travelers-9133a85597ce]).
+https://medium.com/@manamelatsholofelo2/bostons-airbnb-market-a-data-driven-guide-for-hosts-and-travelers-9133a85597ce
 
 
 
