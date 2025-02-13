@@ -84,7 +84,7 @@ pip install -r requirements.txt
 - Then run individual analysis notebooks
 
 ## Blog Post
-A detailed analysis and discussion can be found in this [Medium post](link-to-medium-post).
+A detailed analysis and discussion can be found in this [Medium post]([link-to-medium-post](https://medium.com/@manamelatsholofelo2/bostons-airbnb-market-a-data-driven-guide-for-hosts-and-travelers-9133a85597ce)).
 
 
 
